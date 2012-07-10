@@ -1,0 +1,4 @@
+Sitemap: http://pizzahouse1.net/sitemap.xml
+
+User-agent: *
+Disallow:
